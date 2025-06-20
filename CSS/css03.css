@@ -1,0 +1,27 @@
+
+body {
+  background-image: linear-gradient(120deg, #4A102A 0%, #85193C 100%);
+}
+.Porcentaje {
+    width: 70%;
+    height: 150%;
+    border: 4px solid #85193C;
+    color: #FCF259;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    padding-top: 10%;
+}
+.rems {
+    color: #FCF259;
+    width: 30rem;
+    height: 10rem;
+    border-radius: 2rem;
+    font-size: 1.5rem;
+    border: 4px solid #85193C;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-top: 2rem;
+    text-align: center;
+}
