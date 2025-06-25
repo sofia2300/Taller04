@@ -39,7 +39,7 @@ p {
 
 .relative {
     position: relative;
-    background-color: #56DFCF;
+    background-color: #0ABAB5;
     color: #0ABAB5;
     width: 80%;
     height: 80%;
@@ -61,7 +61,7 @@ p {
 
 .fijo {
     position: fixed;
-    background-color: #56DFCF;
+    background-color: #0ABAB5;
     color: #0ABAB5;
     width: 80%;
     height: 80%;

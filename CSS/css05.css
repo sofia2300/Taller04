@@ -1,0 +1,35 @@
+body{
+    background-color: #F8EDE3;
+}
+p {
+    color: #DFD3C3;
+}
+.absolute {
+    position: absolute;
+    background-color: #C5705D;
+    padding: 40px;
+    width: 500px;
+    height: 80px;
+    top: 60px;
+    left: 30px;
+}
+
+.contenedor {
+    position: relative;
+    background-color: #D0B8A8;
+    padding: 40px 20px 40px 20px;
+    width: 500px;
+    height: 80px;
+    margin-top: 300px;
+}
+
+.contenedor2 {
+    position: absolute;
+    background-color: #C5705D;
+    padding: 10px;
+    right: 10px;
+    top: 10px;
+    width: 400px;
+    height: 150px;
+
+}
