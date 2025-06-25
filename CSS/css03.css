@@ -25,3 +25,69 @@ body {
     margin-top: 2rem;
     text-align: center;
 }
+
+.ex {
+    color: #FCF259;
+    width: 40ex;
+    height: 20ex;
+    border-radius: 2ex;
+    font-size: 1.5ex;
+    border: 4px double #85193C;
+    padding-top: 10ex;
+    padding-bottom: 30ex;
+    margin-top: 2ex;
+    text-align: center;
+}
+
+.vh {
+  color: #FCF259;
+    width: 40vh;
+    height: 20vh;
+    border-radius: 2vh;
+    font-size: 1.5vh;
+    border: 4px dashed #85193C;
+    padding-top: 10vh;
+    padding-bottom: 30vh;
+    margin-top: 2vh;
+    text-align: center;
+}
+
+.vw {
+   color: #FCF259;
+    width: 40vw;
+    height: 20vw;
+    border-radius: 2vw;
+    font-size: 1.5vw;
+    border: 4px groove #85193C;
+    padding-top: 10vw;
+    padding-bottom: 30vw;
+    margin-top: 2vw;
+    text-align: center;
+}
+
+.vmin {
+  color: #FCF259;
+    width: 40vmin;
+    height: 20vmin;
+    border-radius: 2vmin;
+    font-size: 1.5vmin;
+    border: 4px dotted #85193C;
+    padding-top: 10vmin;
+    padding-bottom: 30vmin;
+    margin-top: 2vmin;
+    text-align: center;
+}
+
+.vmax {
+  color: #FCF259;
+    width: 40vmax;
+    height: 20vmax;
+    border-radius: 2vmax;
+    font-size: 1.5vmax;
+    border: 4px dashed #85193C;
+    padding-top: 10vmax;
+    padding-bottom: 30vmax;
+    margin-top: 2vmax;
+    text-align: center;
+}
+
